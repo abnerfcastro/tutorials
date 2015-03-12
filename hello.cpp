@@ -2,8 +2,8 @@
 
 int main()
 {
-	std::cout << "Hi! How are you?" << std::endl;
-	std::cout << "Hello World!" << std::endl;
+	// This is a simple program
+	std::cout << "Hi! How are you?" << " ";
 	std::cout << "This is a tutorial with Git" << std::endl;
 	return 0;
 }
