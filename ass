@@ -1,0 +1,29 @@
+[33mcommit 4247469d7f8ce1e8fe43bcb7a5943f33f34d7830[m
+Author: Abner Castro <abnerfcastro@gmail.com>
+Date:   Fri Mar 13 01:46:26 2015 -0300
+
+    Implemented user name prompting.
+
+[33mcommit 518fbb5f4d13b1e11a727f86a22f0d36e4b7e4cd[m
+Author: Abner Castro <abnerfcastro@gmail.com>
+Date:   Thu Mar 12 11:26:45 2015 -0300
+
+    Edited a few more details.
+
+[33mcommit e38658fe86ad1f47c502356aebf1307da31eacec[m
+Author: Abner Castro <abnerfcastro@gmail.com>
+Date:   Thu Mar 12 11:21:33 2015 -0300
+
+    Modified hello.cpp a bit
+
+[33mcommit cfd5a128d98a86ee993f852931d9a8f223578640[m
+Author: Abner Castro <abnerfcastro@gmail.com>
+Date:   Thu Mar 12 03:00:33 2015 -0300
+
+    Added new message on hello.cpp
+
+[33mcommit 395ad997261b48385f56a586b20fa93cecf3a247[m
+Author: abnerfcastro <abnerfcastro@gmail.com>
+Date:   Thu Mar 12 02:53:20 2015 -0300
+
+    New hello-world program in C++
